@@ -1,0 +1,13 @@
+# IDEs
+.cursor
+.code
+.fleet
+.idea
+
+# JS/TS
+count.txt
+node_modules
+.tanstack
+
+# Misc
+.DS_Store
